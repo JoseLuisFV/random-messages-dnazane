@@ -14,7 +14,15 @@
   "author": "Jose Luis Flores Vacio <josefvacio@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseLuisFV/random-messages-dnazane.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JoseLuisFV/random-messages-dnazane/issues"
+  },
+  "homepage": "https://github.com/JoseLuisFV/random-messages-dnazane#readme"
 }

@@ -14,8 +14,8 @@ random-msg
 
 ## Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directl in this repository: [random-messages-dnazane](https://github.com/joseflores/npm-random-msg)
+If someone wants to add or improve something, I invite you to collaborate directl in this repository: [random-messages-dnazane](https://github.com/JoseLuisFV/random-messages-dnazane)
 
 ## License
 
-random-msf is released under the [MIT Licenses](https://opensource.org/licenses/MIT).
+random-msg is released under the [MIT Licenses](https://opensource.org/licenses/MIT).
